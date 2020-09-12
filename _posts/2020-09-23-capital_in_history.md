@@ -2,7 +2,7 @@
 layout: post
 title: "Teach-in: Capital in History (Date/Time TBD)"
 author: Platypus
-date: 2020-09-23 17:00:00 -0400
+date: 2020-09-30 17:00:00 -0400
 tags: [teachin]
 published: true
 ---
