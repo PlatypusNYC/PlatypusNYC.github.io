@@ -27,7 +27,7 @@ After 1917, Lukács recovered Marx’s grasp of the contradictory but constituti
 
 For Marx, capitalism itself sets the stage for and provokes emancipatory social potential that it also constrains. As social form, capital points beyond itself.
 
-<b>Lenin, Luxemburg and 1917</b>
+## Lenin, Luxemburg and 1917
 
 At the turn of the 20th Century, the younger generation of radicals in Second International Social Democracy took for granted the revolutionary character of their Marxist forebears (Kautsky, Plekhanov), but uneasily came up against problems in the movement they so enthusiastically championed. The standard bearers of the revolutionary Marxist mandate found themselves shockingly isolated on the Left with the outbreak of World War in 1914. Russia proved to be the “weakest link” in the world system of capitalism, becoming the epicenter of revolutionary political struggle, but with the paradoxical outcome of what Lenin called a “deformed workers’ state” administering “state capitalism” on the frontier-backwater of global capital, which too soon “recovered” from the crisis of the war. Luxemburg and her comrades in Germany supported the Bolsheviks, but as Marxists remained critical, knowing that October 1917 advanced the necessity of global revolution, posing a “problem” in Russia that could not be “solved” there. Struggling to remain true to the principles of Marxism, actually Lenin, Luxemburg and their cohort transformed the Marxist movement, but in very uneven ways that, with the ultimate failure and betrayal of the anticapitalist revolution opened in 1917-19, set the stage for the later degeneration of the Left — not least in its self-understanding.
 
