@@ -2,7 +2,7 @@
 layout: post
 title: "Discussion: Republicans and Riots (Fri. Sept. 25th, 5pm EDT)"
 author: Platypus
-date: 2020-09-30 17:00:00 -0400
+date: 2020-09-25 17:00:00 -0400
 tags: [discussion]
 published: true
 ---
