@@ -12,5 +12,3 @@ In this teach-in, we will ask, what is the meaning of history for any purportedl
 Presenter: Rana Urek  
 Location: online  
 
-Details on how to join will be added to this page closer to the time of the event.
-

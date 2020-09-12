@@ -12,5 +12,3 @@ In this teach-in, we will ask, what is the meaning of history for any purportedl
 Presenter: Dionysos Chatzitasis  
 Location: https://columbiauniversity.zoom.us/j/92078919882
 
-Details on how to join will be added to this page closer to the time of the event.
-
