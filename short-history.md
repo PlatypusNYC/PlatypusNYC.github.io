@@ -5,7 +5,7 @@ permalink: /short-history/
 ---
 
 
-<b>Marx and 1848</b>
+## Marx and 1848
 
 Marx was not the author but the brilliant critical participant of the Left in the 19th Century. Socialism and communism were not invented by Marx, 
 Engels and their collaborators (and opponents) on the Left, but issued from the contradictions of modern society itself, as expressed in the French 
@@ -31,17 +31,17 @@ For Marx, capitalism itself sets the stage for and provokes emancipatory social 
 
 At the turn of the 20th Century, the younger generation of radicals in Second International Social Democracy took for granted the revolutionary character of their Marxist forebears (Kautsky, Plekhanov), but uneasily came up against problems in the movement they so enthusiastically championed. The standard bearers of the revolutionary Marxist mandate found themselves shockingly isolated on the Left with the outbreak of World War in 1914. Russia proved to be the “weakest link” in the world system of capitalism, becoming the epicenter of revolutionary political struggle, but with the paradoxical outcome of what Lenin called a “deformed workers’ state” administering “state capitalism” on the frontier-backwater of global capital, which too soon “recovered” from the crisis of the war. Luxemburg and her comrades in Germany supported the Bolsheviks, but as Marxists remained critical, knowing that October 1917 advanced the necessity of global revolution, posing a “problem” in Russia that could not be “solved” there. Struggling to remain true to the principles of Marxism, actually Lenin, Luxemburg and their cohort transformed the Marxist movement, but in very uneven ways that, with the ultimate failure and betrayal of the anticapitalist revolution opened in 1917-19, set the stage for the later degeneration of the Left — not least in its self-understanding.
 
-<b>Trotsky</b>
+## Trotsky
 
 When Stalin announced the policy of “socialism in one country” he was not thereby explicitly overthrowing a revolutionary Marxist perspective but rather accommodating circumstances of the Russian Revolution by 1924. Even those revolutionaries less cynical than Stalin and the Bolsheviks he manipulated and murdered did not countenance that only the risky politics of worldwide Communism had any hope of preserving, let alone furthering, the very modest gains of 1917. In the absence of this, the exigencies of “preserving the revolution” demanded ever higher sacrifices, an unfolding catastrophe for humanity.
 
-<b>Adorno</b>
+## Adorno
 
 The disintegration of revolutionary Marxism by the 1930s presented an acute problem for critical consciousness on the Left. The radical crisis of war and social revolution 1914-19 produced its reactionary complement, the virulent movement of fascism and a resumption of world war that by 1945 had devastated the Left. In the wake of counterrevolution and reaction after 1919 emerged the “authoritarian character” structure of social and political subjectivity that was expressed pervasively, not only in black- and brown-shirt rallies, but also in the Popular Front and, later, “nationalism” in the “Third World.” The “authoritarian personality,” with its characteristic wounded narcissism and sado-masochism, evinced a regressive “fear of freedom.”
 
 “Marxism” became part of the ideology of the reactionary social reality of “advanced” capitalism, but one which yet, smoldering with history, pointed beyond the terms of the “bourgeois” ideology whose vacancy it had come to occupy. In the period of triumphant counter-revolution that characterized the high 20th Century, the question and problem of critical social consciousness re-emerged. Recovering the critical intent of Marxian theory and practice proved an obscure issue by the 1960s, but one that haunted the Left in the social-political disorientation and occultation of the tasks and project of emancipation that is the most profound legacy of defeated and failed revolution.
 
-<b>From ’68 — and ’89 — to today</b>
+## From ’68 — and ’89 — to today
 
 By the 1960s, the “Left” increasingly denied the rights and responsibilities of strategically placed populations at the heart of global capital to change the course of history. — As Susan Sontag succinctly expressed it in 1967,“the white race is the cancer of human history.” — Embraced was a passive expectation of the crowding onto the historical stage by “subalterns,” with no critical regard for the actual political forms this takes. — As Adorno put it at the advent of decolonization: “Savages are not more noble” (1944). — Such abdication took diverse forms of self-abnegation — including racist enthusiasms for “cultural difference” — evacuating politics.
 
