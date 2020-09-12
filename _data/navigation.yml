@@ -1,9 +1,11 @@
 - title: About
   url: /about/
-- title: A Short History of the Left 
-  url: /short-history/
-- title: On Surviving the Extinction of the Left
-  url: /extinction/
+- title: What was the Left?
+  sublinks:
+    - title: A Short History of the Left 
+      url: /short-history/
+    - title: On Surviving the Extinction of the Left
+      url: /extinction/
 #- title: Years
 #  url: /years/
 #- title: Categories
