@@ -10,7 +10,7 @@ Platypus main home page: [platypus1917.org](https://platypus1917.org/)
 
 [Contact Platypus](mailto:coordinator@platypus1917.org)
 
-<b><h3>Statement of Purpose</b></h3>
+## Statement of Purpose
 
 Platypus is a project for the self-criticism, self-education, and, ultimately, the practical reconstitution of a Marxian Left. At present the Marxist Left appears as a historical ruin. The received wisdom of today dictates that past, failed attempts at emancipation stand not as moments full of potential yet to be redeemed, but rather as “what was” — utopianism that was bound to end in tragedy. As critical inheritors of a vanquished tradition, Platypus contends that — after the failure of the 1960s New Left, and the dismantlement of the welfare state and the destruction of the Soviet Union in the 1980s-90s — the present disorientation of the Left means we can hardly claim to know the tasks and goals of social emancipation better than the “utopians” of the past did.
 
