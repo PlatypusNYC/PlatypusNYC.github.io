@@ -1,0 +1,50 @@
+---
+layout: default
+---
+
+<article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+
+    {% assign curDate = site.time | date: '%s' %}
+    {%- assign posts = site.posts | sort: 'date' -%}
+
+        <ul class="post-list">
+      {%- assign date_format = site.date_format | default: "%a, %b %-d, %Y - %H:%M Eastern" -%}
+      {%- for post in posts -%}
+        {% assign postStartDate = post.date | date: '%s' %}
+        {% if postStartDate < curDate %}
+            <li>
+              <h2>
+                <a href="{{ post.url | relative_url }}">
+                  {{ post.title | escape }}
+                </a>
+              </h2>
+              <p class="post-meta">
+                <time class="dt-published" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">
+                  {{ post.date | date: date_format }}
+                </time>
+                {%- if jekyll.environment == "production" and site.disqus -%}
+                  • <a href="{{ post.url | relative_url }}#disqus_thread">
+                      <span class="disqus-comment-count" data-disqus-url="{{ post.url | absolute_url }}"></span>
+                    </a>
+                {%- endif -%}
+              </p>
+              {%- if post.show_excerpts != false -%}
+                <!-- <div class="post-excerpt">{{ post.excerpt | strip_html }}</div> -->
+                <div class="post-excerpt">{{ post.content }}</div>
+              {%- endif -%}
+            </li>
+         {% endif %}
+      {%- endfor -%}
+    </ul>
+
+
+  </div>
+
+</article>

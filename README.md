@@ -18,6 +18,14 @@ From this folder, run `bundle exec jekyll serve`
 
 To install necessary gems, run `bundle install`
 
+## Guide to editing
+
+Many settings are stored in `_config.yml`
+
+### To edit top navbar
+
+Edit `_data/navigation.yml`
+
 ## Features <!-- omit in toc -->
 
 - [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag)
