@@ -12,6 +12,12 @@ Please check out the [demo](https://ngzhio.github.io/jekyll-theme-hamilton/).
 | Sunrise/Sunset | ![screenshot](screenshot-sunrise.png) |
 | Midnight | ![screenshot](screenshot-midnight.png) |
 
+## To run locally
+
+From this folder, run `bundle exec jekyll serve`
+
+To install necessary gems, run `bundle install`
+
 ## Features <!-- omit in toc -->
 
 - [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag)
